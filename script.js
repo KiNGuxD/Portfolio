@@ -38,7 +38,7 @@ function Show(elementId) {
          alt="BotVerse Dashboard Screenshot" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 
-    <img src="gamecode2.png" 
+    <img src="gamecode2.gif" 
          alt="BotVerse Discord Integration Demo" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
         `;
