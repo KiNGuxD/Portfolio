@@ -34,11 +34,11 @@ function Show(elementId) {
         text-align: justify;
         font-size:20px;">This project is a modern and responsive front-end web application designed as a game download platform, inspired by services like Epic Games and Steam. The goal of the website is to provide users with an engaging and intuitive experience where they can browse, explore, and download games with ease.</h2>
         <div style="padding: 20px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-    <img src="https://media.discordapp.net/attachments/1152956408711626822/1430132394685501460/gamecode1.png?ex=68f8aa15&is=68f75895&hm=1a91a293cfebf2b066749fc5372722fae2fdecd1e5f28034b2b96f5281790b52&=&format=webp&quality=lossless&width=1555&height=802" 
+    <img src="gamecode1.png" 
          alt="BotVerse Dashboard Screenshot" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 
-    <img src="https://media.discordapp.net/attachments/1152956408711626822/1430132393930657802/gamecode2.gif?ex=68f8aa15&is=68f75895&hm=c39c081339e282084214aa5bec360284b21f184c6593d8c7156dafa7b49fed40&=" 
+    <img src="gamecode2.png" 
          alt="BotVerse Discord Integration Demo" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
         `;
@@ -68,11 +68,11 @@ function Show(elementId) {
 </h2>
 
 <div style="padding: 20px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-    <img src="https://media.discordapp.net/attachments/1152956410938802216/1430143303684194335/image.png?ex=68f8b43e&is=68f762be&hm=1a897b2ec1f431c93acaf6364e6b582b983f63bff1ad4b414df49700031fc85f&=&format=webp&quality=lossless" 
+    <img src="discordselfbot1.png" 
          alt="BotVerse EDU Dashboard Screenshot" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 
-    <img src="https://media.discordapp.net/attachments/1152956410938802216/1430144693085409342/image.png?ex=68f8b589&is=68f76409&hm=fc63744fedef4ee4a7679ad0e2b486e50726af9cfcdd6aa392f012f8e49674a9&=&format=webp&quality=lossless" 
+    <img src="discordselfbot2.png" 
          alt="BotVerse EDU Discord Simulation Demo" 
          style="width:200px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 </div>
@@ -99,11 +99,11 @@ function Show(elementId) {
 </h2>
 
 <div style="padding: 20px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-    <img src="https://media.discordapp.net/attachments/1152956410938802216/1430145780991131810/image.png?ex=68f8b68d&is=68f7650d&hm=5c4b585a17f49e953c56048def91bd9c0051e9feda81bb60f002d917c64c32f6&=&format=webp&quality=lossless" 
+    <img src="discordbot1.png" 
          alt="BotVerse Dashboard Screenshot" 
          style="width:400px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 
-    <img src="https://media.discordapp.net/attachments/1152956410938802216/1430145861102338068/image.png?ex=68f8b6a0&is=68f76520&hm=02e00c908a2cc96faed4d57c98841011d0d4c10b8fbd93740f521e5ae35b2121&=&format=webp&quality=lossless" 
+    <img src="discordbot2.png" 
          alt="BotVerse Discord Integration Demo" 
          style="width:200px; display:block; margin:20px; border:5px solid white; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
 </div>
