@@ -5,7 +5,20 @@ body{
     padding:0;
 
 }
-
+.ContentArea{
+    padding: 20px;
+}
+.FixedContent{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    border-radius: 20px;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+    background-color: rgb(34, 34, 34);
+    visibility: hidden;
+}
 .AboutMe{
     margin:30px;
     display:flex;
@@ -46,6 +59,7 @@ body{
         display:flex;
         flex:1;
         flex-direction: column;
+        position: relative;
     }
     .Navbar{
         background-color: #1f1f1f;
