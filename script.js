@@ -93,9 +93,9 @@ function Show(elementId) {
             font-family: 'Alata', arial;
             text-align: justify;
             font-size: 20px;">
-    This project showcases a modern front-end interface designed to integrate and deploy a custom Discord bot. 
-    The website serves as a dashboard for managing bot features, viewing real-time server data, and connecting with Discord’s API. 
-    Inspired by modern Discord tools and dashboards, it focuses on clean visuals, responsive design, and an intuitive layout that allows users to easily monitor bot status, issue commands, and customize settings directly from the interface.
+    This project is a custom-built Discord bot created to make server management smarter and more interactive.
+It’s designed to handle tasks like moderating chats, responding to commands, sharing updates, and connecting users through automated features.
+Inspired by modern Discord tools, the bot focuses on speed, reliability, and ease of use, offering a smooth experience while keeping the setup simple and efficient.
 </h2>
 
 <div style="padding: 20px; display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
